@@ -1,5 +1,5 @@
 {
-  "name": "cours-2020",
+  "name": "JsProject",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
@@ -9,6 +9,7 @@
   "dependencies": {
     "brain.js": "^2.0.0-beta.1",
     "fs-extra": "^9.0.0",
+    "prettier": "^2.0.5",
     "ramda": "^0.27.0"
   },
   "devDependencies": {
